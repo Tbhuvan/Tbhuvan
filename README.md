@@ -5,7 +5,7 @@
 **AI Security Researcher · Dublin, Ireland**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bthuluva-blue?logo=linkedin)](https://linkedin.com/in/bthuluva)
-[![Medium](https://img.shields.io/badge/Medium-blog-black?logo=medium)](https://medium.com/@tbhuvan)
+[![Medium](https://img.shields.io/badge/Medium-blog-black?logo=medium)](https://medium.com/@bthuluva)
 
 *Building systems that make AI-generated code safe to deploy.*
 
