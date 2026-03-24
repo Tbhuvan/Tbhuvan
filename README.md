@@ -70,6 +70,6 @@ Token 305:  "' AND password = '" + pass  ←  never generated
 
 <div align="center">
 
-*Applying to RESIST — National Center for Cyber-Resilient AI, Linköping University (IDA-2026-00059)*
+
 
 </div>
