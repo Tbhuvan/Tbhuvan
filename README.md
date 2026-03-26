@@ -33,7 +33,7 @@ Token 305:  "' AND password = '" + pass  ←  never generated
 | Project | Description | Status |
 |---------|-------------|--------|
 | [**ActivGuard**](https://github.com/Tbhuvan/activguard) | Real-time vulnerability detection in LLM code generation via activation probing. 4-layer pipeline: activation probe → semantic RAG → formal verification → threat intelligence. Deployed as OpenAI-compatible proxy middleware. AUC 0.835 ± 0.055 (5-fold CV). Field test: 58.3% recall, 57.4% token savings. | Active |
-| [**RedBench**](https://github.com/Tbhuvan/redbench) | Adversarial benchmark dataset: 198 balanced vulnerable/safe code pairs across 13 CWE classes. On live streaming code: Bandit 0% recall, Semgrep 19.4%. On complete static fragments (8-CWE subset): Bandit 12.1%, Semgrep 14.4%. | Active |
+| [**RedBench**](https://github.com/Tbhuvan/redbench) | Adversarial benchmark dataset: 198 balanced vulnerable/safe code pairs across 13 CWE classes. On live streaming code: Bandit 0% recall, Semgrep 19.4%. On complete static fragments (8-CWE subset, Bandit ≥MEDIUM): Bandit 47.7%, Semgrep 14.4%. | Active |
 
 ### 🟠 Security Extensions
 
