@@ -15,7 +15,7 @@
 
 ## Research Focus
 
-I work at the intersection of **large language models** and **cybersecurity** — specifically, how to detect security vulnerabilities in AI-generated code before they reach production.
+I work at the intersection of **large language models** and **cybersecurity** specifically, how to detect security vulnerabilities in AI-generated code before they reach production.
 
 My core finding: transformer hidden states encode vulnerability signatures *during* code generation, before vulnerable tokens are emitted. A lightweight probe trained on these activations can intercept the generation stream and stop vulnerable code from being written.
 
