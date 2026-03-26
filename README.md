@@ -47,7 +47,7 @@ Token 305:  "' AND password = '" + pass  ←  never generated
 
 | Project | Description |
 |---------|-------------|
-| [**RagShield**](https://github.com/Tbhuvan/ragshield) | Differentially private RAG middleware. Prevents membership inference attacks on private document stores. ε* ≈ 1.0: >90% utility, <5% attack success. |
+| [**RagShield**](https://github.com/Tbhuvan/ragshield) | Differentially private RAG middleware. Prevents membership inference attacks on private document stores via calibrated Gaussian noise on embedding vectors. Empirical ε/utility evaluation in progress. |
 | [**FL-Security-Testbed**](https://github.com/Tbhuvan/fl-security-testbed) | Federated learning security research environment. Byzantine attacks (Min-Max, Min-Sum, Label Flip) + robust defences (Krum, Trimmed Mean, FLAME). Foundation for privacy-preserving probe training. |
 
 ---
